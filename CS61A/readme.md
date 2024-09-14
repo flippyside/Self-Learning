@@ -1,4 +1,3 @@
-
 order: reading - lecture + q&a (videos) -（lab/disc/hw)(顺序任意) - project
 
 - reading: reading the《composing programs》
@@ -9,14 +8,14 @@ order: reading - lecture + q&a (videos) -（lab/disc/hw)(顺序任意) - project
 - disc: recource website
 - project
 
-- [ ] Welcome
-  - [ ] lec
-  - [ ] disc 00
-  - [ ] lab 00
+- [X] Welcome
+  - [X] lec
+  - [X] disc 00
+  - [X] lab 00
 - [ ] Functions
-  - [ ] ch1.1 1.2 1.3
-  - [ ] lec
-  - [ ] HW 01
+  - [X] ch1.1 1.2 1.3
+  - [X] lec
+  - [X] HW 01
   - [ ] lab 01
 - [ ] Control
   - [ ] lec
@@ -36,5 +35,3 @@ order: reading - lecture + q&a (videos) -（lab/disc/hw)(顺序任意) - project
   - [ ] dis 02
 - [ ] Function Examples
   - [ ] lec
-
-
