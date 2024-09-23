@@ -12,26 +12,85 @@ order: reading - lecture + q&a (videos) -（lab/disc/hw)(顺序任意) - project
   - [X] lec
   - [X] disc 00
   - [X] lab 00
-- [ ] Functions
+- [X] Functions
   - [X] ch1.1 1.2 1.3
   - [X] lec
   - [X] HW 01
-  - [ ] lab 01
-- [ ] Control
-  - [ ] lec
-  - [ ] ch1.4 1.5
-  - [ ] disc 01
+  - [X] lab 01
+- [X] Control
+  - [X] lec
+  - [X] ch1.4 1.5
+  - [X] disc 01
 - [ ] Higher-Order Functions
-  - [ ] ch1.6
-  - [ ] lec
-  - [ ] HW 02
+  - [X] ch1.6
+  - [X] lec
+  - [X] HW 02
   - [ ] Hog
 - [ ] Environments
-  - [ ] ch1.6
-  - [ ] lec
-  - [ ] lab 02
+  - [X] ch1.6
+  - [X] video
+  - [X] q&a
+  - [X] lab 02
 - [ ] Functional Abstraction
-  - [ ] lec
+  - [ ] lec6
+  - [ ] q&a
   - [ ] dis 02
 - [ ] Function Examples
-  - [ ] lec
+  - [ ] lec7
+  - [ ] q&a
+- [ ] Recursion
+  - [ ] ch1.7
+  - [ ] lec8
+  - [ ] q&a
+  - [ ] disc 03
+- [ ] Tree Recursion
+  - [ ] lec9
+  - [ ] q&a[ ]  hw 03
+- [ ] Sequences
+  - [ ] ch2.1 2.3
+  - [ ] lab 03
+- [ ] Containers
+  - [ ] dis 04
+  - [ ] lec10
+  - [ ] q&a
+  - [ ] cats
+- [ ] Data Abstraction
+  - [ ] ch 2.2
+  - [ ] lec11
+  - [ ] q&a
+- [ ] Trees
+  - [ ] lab 04
+  - [ ] lec12
+  - [ ] q&a
+- [ ] Mutability
+  - [ ] ch 2.4
+  - [ ] dis 05
+- [ ] Iterators
+  - [ ] ch 4.2
+  - [ ] hw 04
+- [ ] Generators
+  - [ ] lab 05
+- [ ] Objects
+  - [ ] ch 2.5
+  - [ ] dis 06
+- [ ] Attributes
+- [ ] Inheritance
+- [ ] Representation
+- [ ] Composition
+- [ ] Efficiency
+- [ ] Decomposition
+- [ ] Data Examples
+- [ ] TBD
+- [ ] Scheme
+- [ ] Scheme Lists
+- [ ] Calculator
+- [ ] Interpreters
+- [ ] Programs as Data
+- [ ] Macros
+- [ ] SQL
+- [ ] Tables
+- [ ] Aggregation
+- [ ] Databases
+- [ ] Conclusion
+
+print("DEBUG:", x)

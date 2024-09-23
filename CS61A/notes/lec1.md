@@ -57,3 +57,7 @@ len(words)
 
 ``` 
 
+```py
+while num: # all numbers are true, except 0
+```
+
